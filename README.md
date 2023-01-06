@@ -1,4 +1,4 @@
-## Opa!
+### Opa!
 
 ### Me chamo Victor. Cá no meu github tem os projetos que fiz na faculdade e meus projetos pessoais que faço para estudar e me divertir :)
 
@@ -18,7 +18,7 @@
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center">
     <img alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center">
-</div><br/>
+</div>
 
 #
 
