@@ -6,9 +6,9 @@
 - Aprendendo JavaScript
 ‎
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFerreiraDaSilva&show_icons=true&theme=midnight-purple)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFerreiraDaSilva&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerreiraDaSilva&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFerreiraDaSilva&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso:
 <div style="display: inline_block"><br/>
