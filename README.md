@@ -3,7 +3,6 @@
 ### Me chamo Victor. Cá no meu github tem os projetos que fiz na faculdade e meus projetos pessoais que faço para estudar e me divertir :)
 
 - Cursando Sistemas de Informação na UNICAMP 💻
-- Aprendendo JavaScript
 ‎
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFerreiraDaSilva&show_icons=true&theme=aura)
